@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 on Irene C. Zarza</title>
+    <link>https://zarza2.github.io/publication_types/4/</link>
+    <description>Recent content in 4 on Irene C. Zarza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Irene C. Zarza</copyright>
+    <lastBuildDate>Mon, 27 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication_types/4/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>F2F: A Library For Fast Kernel Expansions</title>
+      <link>https://zarza2.github.io/publication/f2f/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://zarza2.github.io/publication/f2f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HashBox: Hash Hierarchical Segmentation exploiting Bounding Box Object Detection</title>
+      <link>https://zarza2.github.io/publication/hashbox/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://zarza2.github.io/publication/hashbox/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
