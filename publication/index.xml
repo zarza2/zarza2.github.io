@@ -20,20 +20,20 @@
     </item>
     
     <item>
-      <title>F2F: A Library For Fast Kernel Expansions</title>
-      <link>https://zarza2.github.io/publication/f2f/</link>
+      <title>Instance Hash Segmentation</title>
+      <link>https://zarza2.github.io/publication/isegmentation/</link>
       <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://zarza2.github.io/publication/f2f/</guid>
+      <guid>https://zarza2.github.io/publication/isegmentation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>HashBox: Hash Hierarchical Segmentation exploiting Bounding Box Object Detection</title>
-      <link>https://zarza2.github.io/publication/hashbox/</link>
+      <title>McKernel: A Library for Approximate Kernel Expansions in Log-linear Time</title>
+      <link>https://zarza2.github.io/publication/mckernel/</link>
       <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://zarza2.github.io/publication/hashbox/</guid>
+      <guid>https://zarza2.github.io/publication/mckernel/</guid>
       <description></description>
     </item>
     
