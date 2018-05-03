@@ -1,5 +1,5 @@
 /*************************************************
- *  Academic: the personal website framework for Hugo.
+ *  Academic: the personal website framework.
  *  https://github.com/gcushen/hugo-academic
  **************************************************/
 
