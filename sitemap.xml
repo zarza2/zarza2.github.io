@@ -2,7 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
+    <url>
     
+      <loc>https://zarza2.github.io/publication/dr_of_crosswise/</loc>
+      <lastmod>2019-05-27T00:00:00+00:00</lastmod>
+    </url>
+
     <url>
     
       <loc>https://zarza2.github.io/publication/hdcgan/</loc>

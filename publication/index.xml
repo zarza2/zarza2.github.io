@@ -6,13 +6,22 @@
     <description>Recent content in Publications on Zarza</description>
     <language>en-us</language>
     <copyright>&amp;copy; 2017-2019 Zarza</copyright>
-    <lastBuildDate>Fri, 17 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Friday, 17 November 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Doctor of Crosswise: Reducing Over-parametrization in Neural Networks</title>
+      <link>https://zarza2.github.io/publication/dr_of_crosswise/</link>
+      <pubDate>Monday, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zarza2.github.io/publication/dr_of_crosswise/</guid>
+      <description></description>
+    </item>
+
+    <item>
       <title>High-resolution Deep Convolutional Generative Adversarial Networks</title>
       <link>https://zarza2.github.io/publication/hdcgan/</link>
-      <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Friday, 17 November 2017 00:00:00 +0000</pubDate>
       
       <guid>https://zarza2.github.io/publication/hdcgan/</guid>
       <description></description>
@@ -21,7 +30,7 @@
     <item>
       <title>Segmentation of Instances by Hashing</title>
       <link>https://zarza2.github.io/publication/cz/</link>
-      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      <pubDate>Monday, 27 February 2017 00:00:00 +0000</pubDate>
       
       <guid>https://zarza2.github.io/publication/cz/</guid>
       <description></description>
@@ -30,7 +39,7 @@
     <item>
       <title>McKernel: Approximate Kernel Expansions in Log-linear Time through Randomization</title>
       <link>https://zarza2.github.io/publication/mckernel/</link>
-      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      <pubDate>Monday, 27 February 2017 00:00:00 +0000</pubDate>
       
       <guid>https://zarza2.github.io/publication/mckernel/</guid>
       <description></description>
