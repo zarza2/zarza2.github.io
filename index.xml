@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zarza on Zarza</title>
-    <link>https://zarza2.github.io/</link>
+    <link>http://zarza.hk/</link>
     <description>Recent content in Zarza on Zarza</description>
     <language>en-us</language>
     <copyright>&amp;copy; 2017-2019 Zarza</copyright>
@@ -11,37 +11,37 @@
 
     <item>
       <title>Doctor of Crosswise: Reducing Over-parametrization in Neural Networks</title>
-      <link>https://zarza2.github.io/publication/dr_of_crosswise/</link>
+      <link>http://zarza.hk/publication/dr_of_crosswise/</link>
       <pubDate>Monday, 27 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://zarza2.github.io/publication/dr_of_crosswise/</guid>
+      <guid>http://zarza.hk/publication/dr_of_crosswise/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-resolution Deep Convolutional Generative Adversarial Networks</title>
-      <link>https://zarza2.github.io/publication/hdcgan/</link>
+      <link>http://zarza.hk/publication/hdcgan/</link>
       <pubDate>Friday, 17 November 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://zarza2.github.io/publication/hdcgan/</guid>
+      <guid>http://zarza.hk/publication/hdcgan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Segmentation of Instances by Hashing</title>
-      <link>https://zarza2.github.io/publication/cz/</link>
+      <link>http://zarza.hk/publication/cz/</link>
       <pubDate>Monday, 27 February 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://zarza2.github.io/publication/cz/</guid>
+      <guid>http://zarza.hk/publication/cz/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>McKernel: Approximate Kernel Expansions in Log-linear Time through Randomization</title>
-      <link>https://zarza2.github.io/publication/mckernel/</link>
+      <title>McKernel: A Library for Approximate Kernel Expansions in Log-linear Time</title>
+      <link>http://zarza.hk/publication/mckernel/</link>
       <pubDate>Monday, 27 February 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://zarza2.github.io/publication/mckernel/</guid>
+      <guid>http://zarza.hk/publication/mckernel/</guid>
       <description></description>
     </item>
     
