@@ -1,6 +1,6 @@
 /*************************************************
  *  Academic: the personal website framework.
- *  https://github.com/gcushen/hugo-academic
+ *  https://www.github.com/gcushen/hugo-academic
  **************************************************/
 
 (function($){
