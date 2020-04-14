@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>Zarza on Zarza</title>
-    <link>http://www.zarza.hk/</link>
+    <link>https://www.zarza.hk/</link>
     <description>Recent content in Zarza on Zarza</description>
     <language>en-us</language>
     <copyright>&amp;copy; 2017-2019 De Zarza</copyright>
@@ -11,37 +11,37 @@
 
     <item>
       <title>Doctor of Crosswise: Reducing Over-parametrization in Neural Networks</title>
-      <link>http://www.zarza.hk/publication/dr_of_crosswise/</link>
+      <link>https://www.zarza.hk/publication/dr_of_crosswise/</link>
       <pubDate>Monday, 27 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.zarza.hk/publication/dr_of_crosswise/</guid>
+      <guid>https://www.zarza.hk/publication/dr_of_crosswise/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-resolution Deep Convolutional Generative Adversarial Networks</title>
-      <link>http://www.zarza.hk/publication/hdcgan/</link>
+      <link>https://www.zarza.hk/publication/hdcgan/</link>
       <pubDate>Friday, 17 November 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.zarza.hk/publication/hdcgan/</guid>
+      <guid>https://www.zarza.hk/publication/hdcgan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Segmentation of Objects by Hashing</title>
-      <link>http://www.zarza.hk/publication/c_and_z/</link>
+      <link>https://www.zarza.hk/publication/c_and_z/</link>
       <pubDate>Monday, 27 February 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.zarza.hk/publication/c_and_z/</guid>
+      <guid>https://www.zarza.hk/publication/c_and_z/</guid>
       <description></description>
     </item>
     
     <item>
       <title>McKernel: A Library for Approximate Kernel Expansions in Log-linear Time</title>
-      <link>http://www.zarza.hk/publication/mckernel/</link>
+      <link>https://www.zarza.hk/publication/mckernel/</link>
       <pubDate>Monday, 27 February 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.zarza.hk/publication/mckernel/</guid>
+      <guid>https://www.zarza.hk/publication/mckernel/</guid>
       <description></description>
     </item>
     
