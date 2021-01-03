@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Zarza</title>
+    <title>Categories on Zarzà</title>
     <link>https://www.zarza.hk/categories/</link>
-    <description>Recent content in Categories on Zarza</description>
+    <description>Recent content in Categories on Zarzà</description>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017-2019 De Zarza</copyright>
+    <copyright>&amp;copy; 2017-2019 De Zarzà</copyright>
     <atom:link href="/categories/" rel="self" type="application/rss+xml" />
     
   </channel>
